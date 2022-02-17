@@ -8,6 +8,8 @@ emoji==0.6.0
 fake-headers
 feedparser
 ffmpeg-python
+flask
+flask_restful
 gitpython
 google-api-python-client
 google-auth-httplib2
