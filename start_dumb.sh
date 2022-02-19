@@ -7,6 +7,7 @@ rm -rf tmp
 git reset --hard
 
 pip install -r requirements.txt
+chmod a+x run
 
 if [[ -n $CONFIG_URL ]]; then
 	wget -q $CONFIG_URL -O config.env
