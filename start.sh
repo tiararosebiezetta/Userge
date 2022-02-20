@@ -1,5 +1,6 @@
-# git clone https://github.com/tiararosebiezetta/Userge
-# cd Userge
+if [[ -d .git ]]; then
+	rm -rf .git
+fi
 
 git clone https://github.com/tiararosebiezetta/Userge tmp
 mv tmp/.git .
