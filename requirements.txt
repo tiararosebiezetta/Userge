@@ -1,4 +1,3 @@
-wheel
 aiofiles
 aiohttp
 bs4
