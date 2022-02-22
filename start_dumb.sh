@@ -7,6 +7,7 @@ mv tmp/.git .
 rm -rf tmp
 git reset --hard
 
+pip install wheel
 pip install -r requirements.txt
 chmod a+x run
 
