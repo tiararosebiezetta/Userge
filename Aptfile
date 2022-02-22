@@ -8,6 +8,6 @@ wget
 ffmpeg
 jq
 nodejs
-rar
-unrar
+http://archive.ubuntu.com/ubuntu/pool/multiverse/r/rar/rar_5.5.0-1build1_amd64.deb
+http://ports.ubuntu.com/pool/multiverse/u/unrar-nonfree/unrar_5.6.6-2build1_arm64.deb
 https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
